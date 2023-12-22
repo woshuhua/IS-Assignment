@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "648739f28c0ffc794d8dc170"
+  },
+  "user_id": "R2769",
+  "password": "$2b$10$ZXC8MVZjAKmDJnQhbUj03uxjcq4oKx4.WZ22oYJyOFUXKuSTWJffK",
+  "name": "mudkip",
+  "unit": "T-13-2",
+  "hp_num": "21111",
+  "role": "resident"
+},
+{
+  "_id": {
+    "$oid": "64873a248c0ffc794d8dc171"
+  },
+  "user_id": "A3100",
+  "password": "$2b$10$f3R4.IXsixhTmryW8eUc1.3W1D5i1a3wlmJSgHpPt9QcvwieeaDyG",
+  "name": "rocket",
+  "unit": "management",
+  "hp_num": "31232",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "648b0135a5f274d82149a965"
+  },
+  "user_id": "S2203",
+  "password": "$2b$10$y6cdSqHOql9X8SLHuSR6BOG/DeXNPNj8ZNDggTwj.6V53g2EKrLk6",
+  "name": "suisei",
+  "unit": "security",
+  "hp_num": "43165",
+  "role": "security"
+}]
