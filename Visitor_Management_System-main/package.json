@@ -1,7 +1,7 @@
 {
   "name": "quiz3",
   "version": "1.0.0",
-  "description": "",
+  "description": "- appropriate flow for user login, registration, deletion and updating with JWT and MongoDB CRUD operations - Testing with REST API client extension in vs code - Using 3 collections : Users, Visitors and VisitorLog",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -17,5 +17,6 @@
     "mongodb": "^5.2.0",
     "qrcode": "^1.5.3",
     "qrcode-reader": "^1.0.4"
-  }
+  },
+  "devDependencies": {}
 }
