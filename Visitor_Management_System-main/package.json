@@ -4,7 +4,9 @@
   "description": "- appropriate flow for user login, registration, deletion and updating with JWT and MongoDB CRUD operations - Testing with REST API client extension in vs code - Using 3 collections : Users, Visitors and VisitorLog",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
